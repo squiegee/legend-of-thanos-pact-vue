@@ -39,6 +39,12 @@ Feel free to rename this 'htaccess' file to '.htaccess' or create your own confi
 
 Other vue history mode server configurations are available at: https://router.vuejs.org/guide/essentials/history-mode.html#html5-mode 
 
+Once .htaccess file is created (or other vue history mode configuration) test development build with:
+
+```bash
+  npm run serve
+```
+
     
 ## Demo
 
