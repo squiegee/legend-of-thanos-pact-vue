@@ -19,7 +19,7 @@ Includes a vue frontend interacting with a testnet contract on the Kadena Blockc
 
 ## Installation
 
-Browse to directory and install legend-of-thanos-pact-vue-tutorial with npm & node 14.16.1
+Download project and install with npm & node 14.16.1
 
 ```bash
   npm i
