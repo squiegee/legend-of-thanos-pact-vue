@@ -1,6 +1,11 @@
 (enforce-pact-version "3.7")
+
+;Uncomment and use the free namespace if uploading to blockchain
 ;(namespace 'free)
+
+;when testing in .repl use test namespace instead of free:
 (namespace (read-msg 'ns))
+
 (module legendofthanos GOVERNANCE
 
   @doc "Legend of Thanos NFT Tutorial."
@@ -62,6 +67,7 @@
   (defconst SWORD_MAX_SUPPLY 2000.0
     " The max supply of Sword NFTs" )
 
+;Remember to use a different coin account here when testing on the blockchain
   (defconst LEGENDOFTHANOS_BANK:string "legendofthanos-bank"
     " Contract Bank / Coin Account. ")
 
@@ -81,6 +87,7 @@
 ; Capatilibites
 ; --------------------------------------------------------------------------
 
+;Remember to create your own keyset on chain and use it here before testing on the blockchain
   (defcap GOVERNANCE ()
     @doc " Give the admin full access to call and upgrade the module. "
     (enforce-keyset 'admin-legendofthanos)
@@ -615,9 +622,12 @@
 ; Create tables and initialize
 ; --------------------------------------------------------------------------
 
-;Lets create our tables
+;Uncomment below when uploading to blockchain for the first time
+;or
+;Keep commented when running tests in .repl
+
 ;(create-table free.legendofthanos.ledger)
 ;(create-table free.legendofthanos.supplies-table)
 ;(create-table free.legendofthanos.uri-table)
-;And finally lets call our intialization function as this contract is uploaded for the first time
+
 ;(free.legendofthanos.initialize)
