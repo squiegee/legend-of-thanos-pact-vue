@@ -1,0 +1,121 @@
+<svg id="home" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 45.49 50">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-2, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-15, .cls-2 {
+        fill: #4e565a;
+      }
+
+      .cls-3, .cls-8 {
+        fill: #b7cbd8;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5, .cls-6 {
+        fill: #96a7b1;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-9 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-14 {
+        fill: url(#radial-gradient-3);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="49.92" cy="43.96" r="2.26" gradientTransform="matrix(1, 0, 0, -1, -7, 48.29)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.4" stop-color="#f2a706"/>
+      <stop offset="0.55" stop-color="#f7ca24"/>
+      <stop offset="0.65" stop-color="#fae139"/>
+      <stop offset="1" stop-color="#f2a706"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="39.89" y1="44.19" x2="39.89" y2="35.14" gradientTransform="matrix(1, 0, 0, -1, -2.25, 51.21)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.66" stop-color="#7e531b"/>
+      <stop offset="1" stop-color="#36230c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="48.28" y1="20.35" x2="48.28" y2="17.3" gradientTransform="matrix(1, 0, 0, -1, -7, 48.29)" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient-2" cx="20.14" cy="43.96" r="2.26" xlink:href="#radial-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="10.11" y1="44.19" x2="10.11" y2="35.14" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="15.72" y1="20.35" x2="15.72" y2="17.3" gradientTransform="matrix(1, 0, 0, -1, -7, 48.29)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="32" y1="27.8" x2="32" y2="24.76" gradientTransform="matrix(1, 0, 0, -1, -7, 48.29)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="25" y1="43.07" x2="25" y2="39.55" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="36.56" cy="44.64" r="3.39" xlink:href="#radial-gradient"/>
+  </defs>
+  <g>
+    <path class="cls-1" d="M39.9,5a7,7,0,0,0,2.87-.17A5.54,5.54,0,0,1,46,5.37a6.53,6.53,0,0,0-3.38-1.21A5.59,5.59,0,0,1,46,3.86a5.61,5.61,0,0,0-3.18-.51,7,7,0,0,1-2.87.17Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M40.33,2.55c0,.75-.87.75-.87,0l.44-.78Z" transform="translate(-2.25)"/>
+    <rect class="cls-3" x="33.69" y="17.68" width="7.9" height="14.26"/>
+    <path class="cls-2" d="M40.65,22.39v2.1h-1.5v-2.1a.75.75,0,0,1,1.5,0Z" transform="translate(-2.25)"/>
+    <polygon class="cls-4" points="32.32 16.07 42.96 16.07 37.64 7.02 32.32 16.07"/>
+    <rect class="cls-5" x="33.69" y="16.72" width="7.9" height="0.95"/>
+    <polygon class="cls-2" points="41.59 16.72 42.96 16.07 32.32 16.07 33.69 16.72 41.59 16.72"/>
+    <rect class="cls-3" x="18.06" y="14.42" width="9.38" height="10.31"/>
+    <path class="cls-2" d="M24.25,16.78v2.09h1.5V16.78a.75.75,0,0,0-1.5,0Z" transform="translate(-2.25)"/>
+    <rect class="cls-3" x="12.94" y="24.25" width="19.62" height="16.15"/>
+    <polygon class="cls-6" points="45.49 30.99 43.58 33.67 32.55 33.67 32.55 30.99 45.49 30.99"/>
+    <polygon class="cls-2" points="45.49 30.99 44.82 31.93 32.55 31.93 32.55 30.99 45.49 30.99"/>
+    <path class="cls-7" d="M47.75,31v-3H46.2V29.5H44.62V27.94H43.07V29.5H41.51V27.94H39.94V29.5H38.36V27.94H36.82V29.5h-2V31Z" transform="translate(-2.25)"/>
+    <polygon class="cls-8" points="1.91 33.67 4.54 40.4 40.96 40.4 43.58 33.67 1.91 33.67"/>
+    <rect class="cls-3" x="4.54" y="37.04" width="36.42" height="12.96"/>
+    <path class="cls-9" d="M10.1,5A7,7,0,0,0,13,4.86a5.54,5.54,0,0,1,3.18.51,6.53,6.53,0,0,0-3.37-1.21,5.57,5.57,0,0,1,3.35-.32A5.62,5.62,0,0,0,13,3.33a6.82,6.82,0,0,1-2.87.17Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M10.54,2.55c0,.75-.87.75-.87,0l.43-.78Z" transform="translate(-2.25)"/>
+    <rect class="cls-3" x="3.9" y="17.68" width="7.9" height="14.26"/>
+    <path class="cls-2" d="M10.85,22.39v2.1H9.35v-2.1a.75.75,0,0,1,.75-.74A.74.74,0,0,1,10.85,22.39Z" transform="translate(-2.25)"/>
+    <polygon class="cls-10" points="2.54 16.07 13.17 16.07 7.85 7.02 2.54 16.07"/>
+    <rect class="cls-5" x="3.9" y="16.72" width="7.9" height="0.95"/>
+    <polygon class="cls-2" points="11.8 16.72 13.17 16.07 2.54 16.07 3.9 16.72 11.8 16.72"/>
+    <polygon class="cls-6" points="0 30.99 1.91 33.67 12.94 33.67 12.94 30.99 0 30.99"/>
+    <polygon class="cls-2" points="0 30.99 0.67 31.93 12.94 31.93 12.94 30.99 0 30.99"/>
+    <path class="cls-11" d="M2.25,31v-3H3.8V29.5H5.38V27.94H6.93V29.5H8.51V27.94h1.55V29.5h1.57V27.94h1.55V29.5h2V31Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M39.15,39.59v2.13h1.5V39.59a.75.75,0,0,0-1.5,0Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M10.85,39.59v2.13H9.35V39.59a.75.75,0,0,1,.75-.74A.74.74,0,0,1,10.85,39.59Z" transform="translate(-2.25)"/>
+    <polygon class="cls-6" points="11.03 23.53 12.94 26.21 32.55 26.21 34.47 23.53 11.03 23.53"/>
+    <polygon class="cls-2" points="11.03 23.53 11.69 24.47 33.8 24.47 34.47 23.53 11.03 23.53"/>
+    <path class="cls-12" d="M13.28,23.53v-3h1.55v1.55H16.4V20.49H18V22h1.57V20.49h1.55V22h1.58V20.49h1.55V22h1.6V20.49h1.55V22h1.57V20.49h1.56V22h1.57V20.49h1.55V22h1.56V20.49h1.55v3Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M31.45,29.83v2.1H30v-2.1a.75.75,0,0,1,1.49,0Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M20,29.83v2.1H18.56v-2.1a.75.75,0,0,1,1.48,0Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M25.75,29.83v2.1h-1.5v-2.1a.75.75,0,0,1,1.5,0Z" transform="translate(-2.25)"/>
+    <polygon class="cls-13" points="15.85 11.66 15.85 8.13 17.38 8.13 17.38 9.67 18.91 9.67 18.91 8.13 20.44 8.13 20.44 9.67 21.98 9.67 21.98 8.13 23.52 8.13 23.52 9.67 25.05 9.67 25.05 8.13 26.58 8.13 26.58 9.67 28.11 9.67 28.11 8.13 29.65 8.13 29.65 11.66 15.85 11.66"/>
+    <path class="cls-14" d="M25,4.44c1.38.74,3.13.16,4.6,0a7.91,7.91,0,0,1,4.52.72,9.34,9.34,0,0,0-4.83-1.74A7.92,7.92,0,0,1,34.12,3a7.91,7.91,0,0,0-4.52-.73c-1.47.19-3.22.77-4.6,0Z" transform="translate(-2.25)"/>
+    <polygon class="cls-6" points="18.06 14.42 15.85 11.66 29.65 11.66 27.44 14.42 18.06 14.42"/>
+    <polygon class="cls-2" points="16.45 12.4 15.85 11.66 29.65 11.66 29.05 12.4 16.45 12.4"/>
+    <rect class="cls-15" x="22.57" y="0.79" width="0.35" height="7.34"/>
+    <path class="cls-2" d="M25.43.79c0,.74-.86.74-.86,0L25,0Z" transform="translate(-2.25)"/>
+    <rect class="cls-15" x="7.68" y="2.55" width="0.35" height="4.77"/>
+    <rect class="cls-15" x="37.47" y="2.55" width="0.35" height="4.77"/>
+    <rect class="cls-5" x="32.55" y="31.93" width="1.59" height="18.07"/>
+    <rect class="cls-5" x="11.35" y="31.93" width="1.59" height="18.07"/>
+    <path class="cls-2" d="M28.6,39.59v2.13H27.1V39.59a.75.75,0,0,1,1.5,0Z" transform="translate(-2.25)"/>
+    <path class="cls-2" d="M22.9,39.59v2.13H21.4V39.59a.75.75,0,0,1,1.5,0Z" transform="translate(-2.25)"/>
+  </g>
+</svg>
