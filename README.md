@@ -23,13 +23,13 @@ The dapp's blockchain contract is also included in the /contracts directory, alo
 
 ## Installation
 
-Download project and install with npm & node 14.16.1:
+Browse to project directory and install with npm & node 14.16.1:
 
 ```bash
   npm i
 ```
 
-Execute development build:
+Run development build:
 
 ```bash
   npm run serve
