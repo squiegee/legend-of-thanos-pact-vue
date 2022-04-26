@@ -23,13 +23,11 @@ The dapp's blockchain contract is also included in the /contracts directory, alo
 
 ## Installation
 
-Download project and install with npm & node 14.16.1
+Download project and install with npm & node 14.16.1:
 
 ```bash
   npm i
 ```
-
-The Legend of Thanos has Vue History Mode enabled (more info here: https://router.vuejs.org/guide/essentials/history-mode.html#html5-mode ) in order to function properly, as such a .htaccess file is included in the /public directory for a simple apache history mode configuration.
 
 Execute development build:
 
