@@ -31,6 +31,8 @@ Download project and install with npm & node 14.16.1
 
 The Legend of Thanos has Vue History Mode enabled (more info here: https://router.vuejs.org/guide/essentials/history-mode.html#html5-mode ) in order to function properly, as such a .htaccess file is included in the /public directory for a simple apache history mode configuration.
 
+Execute development build:
+
 ```bash
   npm run serve
 ```
