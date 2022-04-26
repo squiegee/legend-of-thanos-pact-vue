@@ -10,7 +10,7 @@
         </b-navbar-item>
       </template>
       <template #start>
-        <b-navbar-item class="greenish" href="#">
+        <b-navbar-item class="greenish" target="_blank" href="https://github.com/squiegee/legend-of-thanos-pact-vue">
           Tutorial
         </b-navbar-item>
         <b-navbar-item class="greenish" target="_blank" href="https://pact-language.readthedocs.io/en/stable/index.html">
