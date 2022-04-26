@@ -2,9 +2,9 @@
 # legend-of-thanos-pact-vue
 
 
-The Legend of Thanos Pact + Vue 2.6 Kadena NFT Dapp Tutorial 
+The Legend of Thanos Pact + Vue 2.6 Kadena NFT Dapp Example/Tutorial
 
-A simple NFT factory dapp/tutorial on the Kadena Blockhain exploring a few concepts:
+A simple NFT factory dapp/example on the Kadena Blockhain exploring a few concepts:
 
 - Connecting a Kadena k:account to a dapp
 - Connecting X-wallet to a dapp
