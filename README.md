@@ -32,7 +32,9 @@ Download project and install with npm & node 14.16.1
 The Legend of Thanos has Vue History Mode enabled (more info here: https://router.vuejs.org/guide/essentials/history-mode.html#html5-mode ) in order to function properly:
 
 A .htaccess file is most likely required in the apps /public directory to test this vue dapp properly.
+
 An example file named 'htaccess' has been included in the /public directory.
+
 Feel free to rename this 'htaccess' file to '.htaccess' or create your own configuration to enable vue history mode and test the frontend.
 
 Other vue history mode server configurations are available at: https://router.vuejs.org/guide/essentials/history-mode.html#html5-mode 
