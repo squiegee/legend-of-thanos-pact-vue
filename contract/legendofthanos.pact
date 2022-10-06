@@ -611,6 +611,9 @@
 
   (defun initialize ()
     @doc " Initialize the contract. Can only happen once. "
+    ;
+    ;WARNING - 10/06/22 - Module guards are now deprecated please dont use this tutorials module guards in real world blockchain applications
+    ;
     ;Create our games coin account
     (coin.create-account LEGENDOFTHANOS_BANK (create-module-guard "legendofthanos-holdings"))
     ;And lets give our contract an account in our own game too
