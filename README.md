@@ -17,6 +17,11 @@ Includes a vue frontend interacting with a testnet contract on the Kadena Blockc
 
 The dapp's blockchain contract is also included in the /contracts directory, along with .repl test files.
 
+////////////////
+!IMPORTANT NOTE! 10/6/2022 - Kadena has recently deprecated module guards, this smart contract still includes module guards!
+\\\\\\\\\\\\\\\\
+*Please keep this in mind when using this tutorial for learning purposes as module guards are still found in this code. 
+*Also, please note that Kadena is also moving towards moving the public towards their new marmalade NFT design- This smart contract tutorial makes uses of Kadena's Poly-fungible-v1 token interface (older nft design).
 
 ![Logo](https://legendofthanos.zethra.io/legendofthanos.png)
 
